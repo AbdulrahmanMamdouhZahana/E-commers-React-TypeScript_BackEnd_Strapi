@@ -66,10 +66,14 @@ $RECYCLE.BIN/
 ############################
 
 .tmp
+*.db
 *.log
 *.sql
 *.sqlite
 *.sqlite3
+*.tar.gz
+*.tar
+backups/
 
 
 ############################
